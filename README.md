@@ -1,4 +1,4 @@
-# MusicDot
+# Botão Sair com Modal de Confirmação
 
 Este é um código HTML que representa a interface de um sistema. Ele inclui um navbar responsivo utilizando Bootstrap 3 e um modal de confirmação de saída do sistema.
 
